@@ -1,0 +1,40 @@
+<html>
+<head><title>playwithHtml</title>
+<style>
+#lucky{
+  background-color:blue;
+  font-style:italic;
+  font-size:20px;
+  padding:4px
+}
+#abc{
+  background-color:green;
+  font-style:italic;
+  font-size:20px;
+  border:3px solid yellow;
+  padding:4px
+ }
+.luc{
+  background-color:red;
+  font-style:times new roman;
+  font-size:22px;
+  border:4px solid green;
+  padding:5px
+ }
+</style>
+</head>
+<body>
+<h1 style="color:red;font-style:22px">This is cse-4004 lab</h1>
+<h2 style="color:green;font-style:20px">working on Html and css</h2>
+<h3 style="color:orange;font-style:18px">teaching by sibi chakkaravarthy sir</h3>
+<h4 style="color:blue;font-style:16px">This page is related to colors ansd properties</h4>
+<h5 style="color:voilet;font-style:14px">This contains headers and links</h5>
+<h6 style="color:black;font-style:12px">Byeee web page</h6>
+<img src="C:\Users\sneha\Pictures\image.jpg" width="200" height="130">
+<p id="lucky">We can also say that a html document are made of elements.An element is a combination of a tag and its character data</p>
+<p id="abc">This is exp1 written by suhith Reddy with id</p>
+<p class="luc">welcome to vit-ap, this is css</p>
+<p style="color:red;font-size:15px">Welcome to vit-Ap.This is experiment 1</p>
+<p style="color:blue;font-size:20px">Hii Iam suchith Reddy Studying in vit-ap university</p>
+</body>
+</html>
